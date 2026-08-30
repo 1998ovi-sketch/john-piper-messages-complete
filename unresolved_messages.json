@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://www.desiringgod.org/messages/true-faith-tastes-future-joy",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -20,8 +24,16 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/heart-comes-before-head",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/the-path-to-sacrificial-missions",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-gospel-shaped-mouth",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/where-to-stand-when-all-is-shaking",
@@ -414,6 +426,10 @@
   {
     "url": "https://www.desiringgod.org/messages/funeral-meditation-for-owen",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-supremacy-of-god-in-the-use-of-your-mind",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/jesus-christ-the-end-and-ground-of-tolerance",
