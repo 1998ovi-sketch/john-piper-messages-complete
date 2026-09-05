@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://www.desiringgod.org/messages/true-faith-tastes-future-joy",
-    "reason": "resource HTTP 429"
-  },
-  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -364,6 +360,10 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/why-we-believe-the-bible-session-3",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/the-pleasures-of-god-part-3",
     "reason": "no downloadable audio URL"
   },
@@ -374,6 +374,10 @@
   {
     "url": "https://www.desiringgod.org/messages/the-mercies-of-god-and-the-transformed-christian-mind-q-and-a",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/i-will-go-to-god-my-exceeding-joy",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/introducing-all-nations-christian-fellowship-a-church-plant-of-bethlehem-baptist-church",
@@ -422,6 +426,18 @@
   {
     "url": "https://www.desiringgod.org/messages/jesus-christ-the-end-and-ground-of-tolerance",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/a-biblical-alternative-to-serving-god",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/race-and-cross",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/i-will-meditate-on-all-your-work-and-muse-on-your-deeds",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/is-the-glory-of-god-at-stake-in-gods-foreknowledge-of-human-choices",
@@ -480,6 +496,14 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/exalting-jesus-so-the-spirit-falls",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-mouth-of-the-righteous-is-a-fountain-of-life",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/let-marriage-be-held-in-honor-among-all",
     "reason": "no downloadable audio URL"
   },
@@ -494,6 +518,10 @@
   {
     "url": "https://www.desiringgod.org/messages/if-it-is-of-god-it-will-not-be-overthrown",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/explosive-fellowship",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/a-call-for-courage-in-the-cause-of-truth",
@@ -584,6 +612,10 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/urgency-and-gratitude",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/revival-and-fasting",
     "reason": "no downloadable audio URL"
   },
@@ -634,6 +666,10 @@
   {
     "url": "https://www.desiringgod.org/messages/christ-jesus-came-into-the-world-to-save-sinners",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/saving-faith-produces-love",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/you-who-would-destroy-the-temple-and-build-it-in-three-days",
