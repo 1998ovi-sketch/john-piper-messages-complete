@@ -5,7 +5,7 @@
     <link>https://1998ovi-sketch.github.io/john-piper-messages-complete/john-piper-messages-complete.rss</link>
     <description>Complete personal archive of John Piper messages from Desiring God, preserving original historical dates.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 05:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 05:18:33 +0000</lastBuildDate>
     <itunes:author>John Piper</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://1998ovi-sketch.github.io/john-piper-messages-complete/john-piper-messages-complete.rss" rel="self" type="application/rss+xml" />
@@ -24976,6 +24976,17 @@ Message · Ephesians 1:1–6</description>
 Message · Hebrews 7:1–10</description>
       <author>John Piper</author>
       <enclosure url="https://audio.desiringgod.org/20260725-en-jesus-a-priest-after-the-order-of-melchizedek.mp3?ts=1783540507" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Take a Risk for Life and Fruitfulness</title>
+      <link>https://www.desiringgod.org/messages/take-a-risk-for-life-and-fruitfulness</link>
+      <guid isPermaLink="true">https://www.desiringgod.org/messages/take-a-risk-for-life-and-fruitfulness</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>God often uses risks to bring life to others and to end long-standing fruitlessness in our lives. What would it look like to step out for the sake of Christ?
+
+Message</description>
+      <author>John Piper</author>
+      <enclosure url="https://audio.desiringgod.org/resources/17803/media/c57d1356-7c0c-458e-9b1e-45ca358c2a7c/20260905-en-take-a-risk-for-life-and-fruitfulness.mp3?ts=1787603505" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
