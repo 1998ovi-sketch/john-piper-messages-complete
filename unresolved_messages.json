@@ -4,6 +4,10 @@
     "reason": "resource HTTP 429"
   },
   {
+    "url": "https://www.desiringgod.org/messages/true-faith-tastes-future-joy",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -380,10 +384,6 @@
     "reason": "no downloadable audio URL"
   },
   {
-    "url": "https://www.desiringgod.org/messages/sex-and-the-supremacy-of-christ-part-2",
-    "reason": "resource HTTP 429"
-  },
-  {
     "url": "https://www.desiringgod.org/messages/the-blazing-center-part-8",
     "reason": "no downloadable audio URL"
   },
@@ -630,10 +630,6 @@
   {
     "url": "https://www.desiringgod.org/messages/let-the-children-come-to-me",
     "reason": "no downloadable audio URL"
-  },
-  {
-    "url": "https://www.desiringgod.org/messages/the-spirit-will-give-life-to-your-mortal-bodies",
-    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/into-thy-hands-i-commit-my-spirit",
