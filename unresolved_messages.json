@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://www.desiringgod.org/messages/we-rejoice-in-hope-of-the-glory-of-god",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -14,6 +18,10 @@
   {
     "url": "https://www.desiringgod.org/messages/the-missionary-miracle",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-second-coming-not-before-the-man-of-lawlessness",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/together-for-good",
@@ -284,6 +292,10 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/the-solid-logic-of-heaven-holds",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/reflections-on-1-thessalonians-5-14-18-in-relation-to-carl-holmgren",
     "reason": "no downloadable audio URL"
   },
@@ -420,6 +432,22 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/pity-not-them-who-rise-with-christ",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/how-we-come-to-know-sin",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-path-and-the-price-of-pursuing-the-glory-of-god-among-the-nations",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/drinking-deep-for-gods-sake",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/is-the-glory-of-god-at-stake-in-gods-foreknowledge-of-human-choices",
     "reason": "no downloadable audio URL"
   },
@@ -454,6 +482,10 @@
   {
     "url": "https://www.desiringgod.org/messages/avoiding-sexual-sin",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/man-shall-not-live-on-bread-alone",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/parenting-for-the-glory-of-god-part-1",
@@ -584,6 +616,10 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/but-god",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/the-missionary-challenge-of-pauls-life",
     "reason": "no downloadable audio URL"
   },
@@ -649,7 +685,11 @@
   },
   {
     "url": "https://www.desiringgod.org/messages/discipline-in-the-christian-college-can-it-be-redemptive",
-    "reason": "no downloadable audio URL"
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/better-never-to-have-known-the-way",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/the-third-word-from-the-cross",
@@ -682,6 +722,10 @@
   {
     "url": "https://www.desiringgod.org/messages/the-baptism-and-the-genealogy-of-jesus",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/that-which-is-born-of-the-spirit-is-spirit",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/what-is-the-fruit-that-befits-repentance",
