@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://www.desiringgod.org/messages/plead-for-the-insight-you-need",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -38,6 +42,14 @@
   {
     "url": "https://www.desiringgod.org/messages/courage-and-contentment-in-the-call-of-the-gospel",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/how-to-experience-the-outpouring-of-gods-love",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/three-sightings-of-the-glory-of-jesus",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/go-and-tell-it-is-finished",
@@ -334,6 +346,10 @@
   {
     "url": "https://www.desiringgod.org/messages/evangelicals-and-a-common-word",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/feel-christ-with-russian-interpretation",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/jesus-christ-as-denouement-in-the-theater-of-god",
