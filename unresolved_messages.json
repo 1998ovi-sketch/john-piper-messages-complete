@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://www.desiringgod.org/messages/plead-for-the-insight-you-need",
-    "reason": "resource HTTP 429"
-  },
-  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -42,14 +38,6 @@
   {
     "url": "https://www.desiringgod.org/messages/courage-and-contentment-in-the-call-of-the-gospel",
     "reason": "no downloadable audio URL"
-  },
-  {
-    "url": "https://www.desiringgod.org/messages/how-to-experience-the-outpouring-of-gods-love",
-    "reason": "resource HTTP 429"
-  },
-  {
-    "url": "https://www.desiringgod.org/messages/three-sightings-of-the-glory-of-jesus",
-    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/go-and-tell-it-is-finished",
@@ -348,10 +336,6 @@
     "reason": "no downloadable audio URL"
   },
   {
-    "url": "https://www.desiringgod.org/messages/feel-christ-with-russian-interpretation",
-    "reason": "resource HTTP 429"
-  },
-  {
     "url": "https://www.desiringgod.org/messages/jesus-christ-as-denouement-in-the-theater-of-god",
     "reason": "no downloadable audio URL"
   },
@@ -374,6 +358,18 @@
   {
     "url": "https://www.desiringgod.org/messages/the-pleasures-of-god-session-1--2",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-story-of-his-glory",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/what-happens-in-the-new-birth-part-2",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/how-to-love-your-people",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/the-pleasures-of-god-part-3",
@@ -432,8 +428,16 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/calling",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/jesus-christ-the-end-and-ground-of-tolerance",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/holding-on-to-your-faith-in-the-midst-of-suffering-job-part-3",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/is-the-glory-of-god-at-stake-in-gods-foreknowledge-of-human-choices",
@@ -476,12 +480,16 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/how-to-suffer-for-doing-what-is-right",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/a-sojourn-on-earth-in-confident-fear",
     "reason": "no downloadable audio URL"
   },
   {
     "url": "https://www.desiringgod.org/messages/the-supremacy-of-god-in-the-life-of-the-mind",
-    "reason": "no downloadable audio URL"
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/the-wells-of-salvation-and-the-work-of-missions",
@@ -490,6 +498,10 @@
   {
     "url": "https://www.desiringgod.org/messages/life-changing-things-ive-learned-about-missions",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/god-vindicated-his-righteousness-in-the-death-of-christ",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/let-marriage-be-held-in-honor-among-all",
@@ -632,6 +644,10 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/hallowed-be-thy-name-in-all-the-earth",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/a-pastors-role-in-world-missions",
     "reason": "no downloadable audio URL"
   },
@@ -642,6 +658,10 @@
   {
     "url": "https://www.desiringgod.org/messages/into-thy-hands-i-commit-my-spirit",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/going-hard-after-the-holy-god",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/christ-jesus-came-into-the-world-to-save-sinners",
@@ -749,7 +769,7 @@
   },
   {
     "url": "https://www.desiringgod.org/messages/the-children-the-church-and-the-chosen",
-    "reason": "no downloadable audio URL"
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/sky-talk",
