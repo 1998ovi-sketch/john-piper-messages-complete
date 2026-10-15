@@ -16,6 +16,11 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/even-when-it-hurts",
+    "audio_url": "https://audio.desiringgod.org/20190811-en-even-when-it-hurts.mp3?ts=1709846882",
+    "reason": "audio HTTP 502 (text/html; charset=UTF-8)"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/together-for-good",
     "reason": "no downloadable audio URL"
   },
@@ -476,6 +481,10 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/how-to-pray-for-a-desolate-church",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/let-marriage-be-held-in-honor-among-all",
     "reason": "no downloadable audio URL"
   },
@@ -506,6 +515,10 @@
   {
     "url": "https://www.desiringgod.org/messages/from-wonder-to-witness",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/jesus-women-and-men",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/the-dangers-of-following-jesus",
