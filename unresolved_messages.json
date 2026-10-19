@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://www.desiringgod.org/messages/radiance-power-and-purification",
-    "reason": "resource HTTP 429"
-  },
-  {
-    "url": "https://www.desiringgod.org/messages/plead-for-the-insight-you-need",
-    "reason": "resource HTTP 429"
-  },
-  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -18,6 +10,10 @@
   {
     "url": "https://www.desiringgod.org/messages/the-mighty-ministry-of-song",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/every-promise-is-yes-in-him",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/the-missionary-miracle",
