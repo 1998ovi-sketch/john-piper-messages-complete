@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://www.desiringgod.org/messages/radiance-power-and-purification",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -34,6 +38,10 @@
   {
     "url": "https://www.desiringgod.org/messages/our-grand-obligation",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-roots-of-fearless-unity-in-the-gospel",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/courage-and-contentment-in-the-call-of-the-gospel",
@@ -360,6 +368,18 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/so-send-i-you",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-triumph-of-the-gospel-in-the-new-heavens-and-the-new-earth--2",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/what-happens-in-the-new-birth-part-2",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/the-pleasures-of-god-part-3",
     "reason": "no downloadable audio URL"
   },
@@ -368,12 +388,20 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/treasuring-christ-and-the-call-to-suffer-part-3",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/the-mercies-of-god-and-the-transformed-christian-mind-q-and-a",
     "reason": "no downloadable audio URL"
   },
   {
     "url": "https://www.desiringgod.org/messages/introducing-all-nations-christian-fellowship-a-church-plant-of-bethlehem-baptist-church",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-kingdom-of-god-is-righteousness-and-peace-and-joy-in-the-holy-spirit",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/the-blazing-center-part-8",
@@ -420,6 +448,30 @@
     "reason": "no downloadable audio URL"
   },
   {
+    "url": "https://www.desiringgod.org/messages/who-is-this-divided-man-part-4",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/to-be-a-mother-is-a-call-to-suffer",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/holding-on-to-your-faith-in-the-midst-of-suffering-q-and-a",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/holding-on-to-your-faith-in-the-midst-of-suffering-job",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/adam-christ-and-justification-part-2",
+    "reason": "resource HTTP 429"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-excellency-of-god--2",
+    "reason": "resource HTTP 429"
+  },
+  {
     "url": "https://www.desiringgod.org/messages/is-the-glory-of-god-at-stake-in-gods-foreknowledge-of-human-choices",
     "reason": "no downloadable audio URL"
   },
@@ -458,6 +510,10 @@
   {
     "url": "https://www.desiringgod.org/messages/parenting-for-the-glory-of-god-part-1",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/should-we-seek-our-happiness-with-portuguese-interpretation",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/a-sojourn-on-earth-in-confident-fear",
@@ -622,6 +678,10 @@
   {
     "url": "https://www.desiringgod.org/messages/let-the-children-come-to-me",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/ruth-sweet-and-bitter-providence",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/into-thy-hands-i-commit-my-spirit",
