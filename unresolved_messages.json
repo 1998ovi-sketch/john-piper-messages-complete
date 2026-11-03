@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://www.desiringgod.org/messages/radiance-power-and-purification",
-    "reason": "resource HTTP 429"
-  },
-  {
-    "url": "https://www.desiringgod.org/messages/plead-for-the-insight-you-need",
-    "reason": "resource HTTP 429"
-  },
-  {
     "url": "https://www.desiringgod.org/messages/your-thorn-for-his-glory",
     "reason": "no downloadable audio URL"
   },
@@ -249,7 +241,7 @@
   },
   {
     "url": "https://www.desiringgod.org/messages/you-can-say-no-to-porn",
-    "reason": "resource HTTP 429"
+    "reason": "no downloadable audio URL"
   },
   {
     "url": "https://www.desiringgod.org/messages/expressing-truth",
@@ -450,10 +442,6 @@
   {
     "url": "https://www.desiringgod.org/messages/what-is-baptism-and-does-it-save",
     "reason": "no downloadable audio URL"
-  },
-  {
-    "url": "https://www.desiringgod.org/messages/sustained-by-sovereign-grace-forever",
-    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/advice-to-pastors-preach-the-word",
