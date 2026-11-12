@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://www.desiringgod.org/messages/radiance-power-and-purification",
+    "url": "https://www.desiringgod.org/messages/true-faith-tastes-future-joy",
     "reason": "resource HTTP 429"
   },
   {
@@ -14,10 +14,6 @@
   {
     "url": "https://www.desiringgod.org/messages/the-mighty-ministry-of-song",
     "reason": "no downloadable audio URL"
-  },
-  {
-    "url": "https://www.desiringgod.org/messages/jesus-came-to-save",
-    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/the-missionary-miracle",
@@ -426,6 +422,10 @@
   {
     "url": "https://www.desiringgod.org/messages/jesus-christ-the-end-and-ground-of-tolerance",
     "reason": "no downloadable audio URL"
+  },
+  {
+    "url": "https://www.desiringgod.org/messages/the-purpose-and-perseverance-of-faith",
+    "reason": "resource HTTP 429"
   },
   {
     "url": "https://www.desiringgod.org/messages/is-the-glory-of-god-at-stake-in-gods-foreknowledge-of-human-choices",
